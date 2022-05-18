@@ -1,0 +1,131 @@
+                                           Python introduction
+
+	Python was created by Guido van Rossum during 1985- 1990.
+	Python is a general-purpose interpreted, interactive, object-oriented, and high-level programming language.
+	It is a High – Level programming  language.
+	Python is very easy to read and understand and  integrated with other languages that are java, c++,ect.,
+
+ void main()
+{
+	Printf(“Hello world”)
+}
+
+	Python is a dynamic, high level, free open source and interpreted programming language.
+
+	 It supports object-oriented programming as well as procedural oriented programming.
+
+	In Python, we don’t need to declare the type of variable because it is a dynamically typed language.
+
+#   Dynamically typed means where the interpreter assigns variables a type at runtime
+    based on the variable's value at the time.
+
+For example, x = 10
+Here, x can be anything such as String, int, etc.
+
+
+History of Python
+#   Python was developed by Guido van Rossum in the late eighties and early nineties at the
+    National Research Institute for Mathematics and Computer Science in the Netherlands.
+
+#   Python is derived from many other languages, including ABC, Modula-3, C, C++, Algol-68,
+    SmallTalk, and Unix shell and other scripting languages.
+
+#   Python is now maintained by a core development team at the institute,
+    although Guido van Rossum still holds a vital role in directing its progress.
+
+
+Features in Python
+There are many features in Python, some of which are discussed below –
+
+1. Easy to code:
+#  Python is a high-level programming language. Python is very easy to learn the language as
+   compared to other languages like C, C#, Javascript, Java, etc.
+
+2. Free and Open Source:
+#  Python language is freely available at the official website and you can download
+   it from the given download link below click on the Download Python keyword.
+
+3. Object-Oriented Language:
+#  One of the key features of python is Object-Oriented programming.
+   Python supports object-oriented language and concepts of classes, objects encapsulation, etc.
+
+4. GUI Programming Support:
+#  Graphical User interfaces can be made using a module such as PyQt5, PyQt4, wxPython, or Tk in python.
+
+5. High-Level Language:
+#   Python is a high-level language. When we write programs in python,
+    we do not need to remember the system architecture, nor do we need to manage the memory.
+
+6. Python is Integrated language:
+#   Python is also an Integrated language because we can easily integrated python with other
+    languages like c, c++, etc.
+
+7. Interpreted Language:
+#  Python is an Interpreted Language because Python code is executed line by line at a time.
+
+
+8. Dynamically Typed Language:
+#   Python is a dynamically-typed language. That means the type (for example- int, double, long, etc.)
+    for a variable is decided at run time not in advance because of this feature we don’t need
+    to specify the type of variable.
+
+###  Procedure Oriented vs Object oriented programming languages?
+     In procedural programming, the program is divided into small parts called functions.
+     Procedural programming follows a top-down approach.
+     In object-oriented programming, the program is divided into small parts called objects.
+     Object-oriented programming follows a bottom-up approach.
+
+
+
+###  How interpreter works in python?
+     An interpreter is a kind of program that executes other programs. When you write Python programs,
+     convert source code into machine code by line by line.
+
+### what is compiler?
+    converting source code into machine code at a single time is called compiler.
+
+### structured programming:
+    program can divided into modules, and these modules are then divided into functions.
+    Each module can work independent of one another.
+
+### functional programming:
+    It is used for excuting many different operations for which the data is fixed.
+    It supports abstraction over data and behaviour.
+
+
+### Automatic Garbage collection?
+    Python deletes unwanted objects (built-in types or class instances) automatically to free the memory space.
+
+
+    #########    identifiers   #########
+
+# identifiers are the names that can be used for fundamental building blocks of a programm
+# These are start with A,a,_
+# not starts with numbers and special chars
+
+variable name,method name,class name
+
+Rules:
+1. a to z, A to Z, 0-9,
+2. start with digit
+3. case sensitive
+4. Reserved words as identifiers
+5. No length limit
+
+_x == > in this _ indicates private
+__x==> in this __ it is strongly private
+__x__ it is language specific special identifiers
+
+               ##########  Reserved words #######
+
+
+  Value Keywords: True, False, None.
+  Operator Keywords: and, or, not, in, is.
+  Control Flow Keywords: if, elif, else.
+  Iteration Keywords: for, while, break, continue, else.
+  Structure Keywords: def, class, with, as, pass, lambda.
+  Returning Keywords: return, yield.
+  Import Keywords: import, from, as.
+
+note:
+1. all are only in alphabet symbols
