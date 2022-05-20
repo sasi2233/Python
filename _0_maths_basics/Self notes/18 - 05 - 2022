@@ -1,0 +1,108 @@
+
+ 1.Why Python?applications of Python?What are the key features of Python?
+
+#   Python is a dynamic, high level, free open source and interpreted programming language.
+#   It supports object-oriented programming as well as procedural oriented programming.
+#   In Python, we don't need to declare the type of variable because it is a dynamically typed language.
+
+### Applications of Python ###
+
+# web applications
+# Business application
+# scientific applications
+# Games Developement
+# Audio abd vedio Applications
+# CAD applicatin
+# Desktop GUI
+# data science and data visualization
+# ML and AI
+
+### key Features in python ###
+# Easy to read and understand
+# Free and open sources
+# GUI Programming Support
+# Interpreted Language
+# Dynamically Typed Language
+# Object-Oriented Language
+
+2.Python is an interpreted language explain? How is Python an interpreted language?How do we interpret Python?
+# An interpreter is a kind of program that executes other programs.
+# When you write Python programs,convert source code into machine code by line by line.
+
+
+3.What do you mean by Python literals?
+# Literals in Python is defined as the raw data assigned to variables or constants while programming.
+  We mainly have five types of literals which includes string literals, numeric literals,
+  boolean literals, literal collections and a special literal None.
+
+
+4.What type of language is python?
+# python is dynamic type language.In Python we are not required to declare type for variables.
+  Whenever we are assigning the value, based on value, type will be allocated automatically.
+  Hence Python is considered as dynamically typed language.
+
+
+5.What is the namespace in Python?
+# A namespace is a collection of currently defined symbolic names along with information
+  about the object that each name references.
+# You can think of a namespace as a dictionary in which the keys are the
+  object names and the values are the objects themselves.
+
+
+6.What are local variables and global variables in Python?
+# Local Variables:
+  Any variable declared inside a function is known as a local variable.
+  This variable is present in the local space and not in the global space.
+  If a variable is assigned a new value anywhere within the function's body.
+
+# Global variable:
+  Any variable declared inside a function is known as a local variable.
+  To make a variable globally, we need to declare it by using global keyword.
+
+7.List the common built-in datatypes in Python?
+# Built-in Data Types in Python
+  1.python numbers: int , float, complex
+  2.python list
+  3.python tuple
+  4.python set
+  5.python dictionary
+  6.python string
+  7.Boolen Type:  True or False
+
+
+8.Explain all the keywords in Python?
+# The keywords are some predefined and reserved words in python that have special meanings.
+# Value Keywords: True, False, None.
+  Operator Keywords: and, or, not, in, is.
+  Control Flow Keywords: if, elif, else.
+  Iteration Keywords: for, while, break, continue, else.
+  Structure Keywords: def, class, with, as, pass, lambda.
+  Returning Keywords: return, yield.
+  Import Keywords: import, from, as.
+
+
+
+9.What are comments and how can you add comments in Python?
+# A comment in Python starts with the hash character, # , and extends to the end of the physical line.
+# A comment can be written in three ways - entirely on its own line, next to a statement of code,
+  and as a multi-line comment block.
+
+  Single-Line Comments
+# Such a comment starts with a hash character (#), and is followed by text that contains further explanations.
+
+   Multi-Line Comments
+#  This multi line comment can be represented as """ """
+
+10.How to check the Python Version in CMD?
+#  python --version
+
+11. How is memory managed in Python?
+# Python uses the dynamic memory allocation which is managed by the Heap data structure.
+# Memory Heap holds the objects and other data structures that will be used in the program.
+# We use the Heap for implement dynamic memory management. We can use the memory throughout the program.
+
+12. how the variable assignment happens in python a=10
+# Variables store information that can be used and/or changed in your program.
+  This information can be an integer, text, collection, etc.
+
+
